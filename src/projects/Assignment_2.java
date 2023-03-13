@@ -1,6 +1,7 @@
 package projects;
 
 public class Assignment_2 {
+	//With Public
 	public static void main(String[] args) {
 		System.out.println("Hello World- Assignment_2");
 	}
