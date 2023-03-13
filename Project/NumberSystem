@@ -46,3 +46,45 @@ Hexadecimal of 67 is 43
 Hexadecimal of 98 is 62
 Hexadecimal of 712 is 2C8
 
+Q4)solve below code
+byte b1 = 128;
+what is the output?
+
+byte b1 = (byte)b1;
+what is the output?
+
+byte b1 = (byte)(b1*3);
+what is the output?
+
+Answer=>
+1) byte b1 = 128;
+-> System will display an error message because 128 is out of range
+the range for bytes is -128 to 127
+
+2) byte b1 = (byte)b1;
+the value is -128
+
+3) byte b1 = (byte)(b1*3);
+the value is -128
+
+
+Q5) solve below code
+byte b1 = (byte)250;
+byte b1 = (byte)120;
+byte b1 = (byte)130;
+byte b1 = (byte)300;
+
+write output of b1;
+
+Answer=>
+1) byte b1 = (byte)250;
+b1=-6
+
+2) byte b1 = (byte)120;
+b1= 120
+
+3) byte b1 = (byte)130;
+b1=-126
+
+4) byte b1 = (byte)300;
+b1=44
