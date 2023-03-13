@@ -1,0 +1,23 @@
+int i = 10; 
+
+int j = 7; 
+
+System.out.println(i+j); 
+
+Answer 17
+
+System.out.println(i-j); 
+
+Answer 3
+
+System.out.println(i*j); 
+
+Answer 70
+
+System.out.println(i/j); 
+
+Answer 1
+
+System.out.println(i%j);
+
+Answer 3
