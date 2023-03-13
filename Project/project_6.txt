@@ -1,0 +1,11 @@
+int i = 10; 
+
+int j = i++ + ++i; 
+
+System.out.println(i); 
+
+System.out.println(j);
+
+Output for i = 12 
+and j= 22
+
