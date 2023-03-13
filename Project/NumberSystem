@@ -1,0 +1,48 @@
+Q1) Covert below Decimal to Octal
+20
+100
+56
+78
+1453
+544
+
+Answer= > 
+Octal of 20 is 24
+Octal of 100 is 144
+Octal of 56 is 70
+Octal of 78 is 116
+Octal of 1453 is 2655
+Octal of 544 is 1040
+
+Q2) Covert below Decimal to Binary
+20
+39
+49
+28
+126
+156
+
+Answer= > 
+Binary of 20 is 10100
+Binary of 39 is 100111
+Binary of 49 is 110001
+Binary of 28 is 11100
+Binary of 126 is 1111110
+Binary of 156 is 10011100
+
+
+Q3) Covert below Decimal to Hexadecimal
+245
+45
+67
+98
+712
+
+Answer= >
+
+Hexadecimal of 245 is F5
+Hexadecimal of 45 is 2D
+Hexadecimal of 67 is 43
+Hexadecimal of 98 is 62
+Hexadecimal of 712 is 2C8
+
