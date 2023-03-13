@@ -101,3 +101,12 @@ IDE means integrated development environment
 3-Android Studio
 4-Visual Studio
 5-IntelliJ
+
+Q7) How many bit are there in a byte?
+
+1 byte = 8 bits
+
+Q8)what maximum value, a byte can hold?
+
+256 maximum value can be hold by byte
+-128 to 127
