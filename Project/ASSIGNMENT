@@ -1,0 +1,21 @@
+Q1) What are the latest java version of in market?
+Ans=> Java 17 is the latest version of java in market.
+
+
+Q2) When java created? and by whom?
+Ans=> Java was created by James Gosling at Sun Microsystems in the year 1995.
+
+Q3) What is WORA?
+Ans=> WORA means Write once, run anywhere.
+
+Q4) Is Empty .java file name working?
+Ans=> Yes, Java allows to save our java file by .java only, we need to compile it by javac .java and run by java classname.
+
+Q5) install java in your machine and write down all the issues which you faced during installation?
+Ans=>i didn't faced any issue while installing Java on my machine, installation step is simple and easy to understand.
+
+Q6)When We install Java? What are basic folder we got?
+Ans=> the basic folder we get after java is installed  JDK folder and within Jdk folder we have bin, conf and some other folders 
+
+Q7)What are all application available in bin folder of Java Setup?
+Ans=>server folder is available under bin folder
