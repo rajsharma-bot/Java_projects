@@ -13,9 +13,9 @@ public class project_1 {
 		// TODO Auto-generated method stub
 		
 	
-		int i = 020;
-		int j = 20;
-		int k = 0X20;
+		int i = 020;  //16
+		int j = 20;  // 20
+		int k = 0X20; //32
 		
 		System.out.println("Value of i is " + i);
 		System.out.println("Value of j is " + j);
