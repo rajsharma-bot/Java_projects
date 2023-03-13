@@ -10,5 +10,28 @@ double(8 Byte)= 64 bit ==  16 decimal digits
 Char(2 Byte) =16 bit
 Boolean= 1 bit 
 
+@2) Which variable notation is correct?
+int 1st = 10; 
+int st1 = 10; 
+int $12 = 34; 
+int _123 = 45; 
+int r12@ = 34; 
+int =123 = 67;
 
 
+Ans=> Below mentioned notation are correct
+int st1 = 10;
+int $12 = 34;
+int _123 = 45;
+
+Q3) which variable notation is correct?
+int i = 10; 
+int int = 20; 
+int goto = 30; 
+int default = 40; 
+int class = 50; 
+int j = 70;
+
+AnS=>Below mentioned notation are correct(For other we cannot declare keyword as variable name)
+int i = 10; 
+int j = 70;
