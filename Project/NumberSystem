@@ -88,3 +88,16 @@ b1=-126
 
 4) byte b1 = (byte)300;
 b1=44
+
+
+Q6)What is IDE?
+write 5 IDEs name for java?
+
+Answer=>
+IDE means integrated development environment
+
+1- Eclipse
+2-NetBeans
+3-Android Studio
+4-Visual Studio
+5-IntelliJ
