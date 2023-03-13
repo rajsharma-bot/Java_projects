@@ -10,6 +10,7 @@ Ans=> WORA means Write once, run anywhere.
 
 Q4) Is Empty .java file name working?
 Ans=> Yes, Java allows to save our java file by .java only, we need to compile it by javac .java and run by java classname.
+later we can run by using javac .java to create class file and then java classname
 
 Q5) install java in your machine and write down all the issues which you faced during installation?
 Ans=>i didn't faced any issue while installing Java on my machine, installation step is simple and easy to understand.
