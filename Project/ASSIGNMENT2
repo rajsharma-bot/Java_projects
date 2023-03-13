@@ -1,0 +1,14 @@
+Q1) Write Size and range for all data types?
+byte,short,int,long,float,double,char,boolean
+
+Byte(byte) = 8 bit  ====== range (-2 Power 7) to (+2 power 7 -1)
+Short(2 byte)= 16 Bit ====== range (-2 Power 15) to (+2 power 15 -1)
+int(4 Byte)= 32  bit ====== range (-2 Power 31) to (+2 power 31 -1)
+long(8 bytes) = 65 bit ====== range (-2 Power 63) to (+2 power 63 -1)
+float(4 Byte) =32 bit == 7 decimal digits
+double(8 Byte)= 64 bit ==  16 decimal digits
+Char(2 Byte) =16 bit
+Boolean= 1 bit 
+
+
+
