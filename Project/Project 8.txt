@@ -145,6 +145,16 @@ class Test {
 
 Answer:- System will print Hello in infinite times until we stop code forcefully  
 
+Q18:- What is Unary operator
+
+The unary operators require only one operand; they perform various operations such as incrementing/decrementing a value by one, negating an 
+expression, or inverting the value of a boolean.
+
++, -, ++, -- , !
+
+
+
+
 
 
 
