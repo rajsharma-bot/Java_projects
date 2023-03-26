@@ -110,6 +110,41 @@ answer:- IPv4 has a 32-bit address length and IPv6 has a 128-bit address length
 IPv6 has a 128-bit address length and In IPv6 end to end, connection integrity is Achievable
 IPv4  can generate 4.29×109 address space and Address space of IPv6 is quite large it can produce 3.4×1038 address space
 
+Q16:-Write output of below question
+class Test {
+
+  public static void main(String[] args) {
+
+      for(int i = 0; 1; i++) {
+
+      System.out.println("Hello"); 
+
+      break; 
+
+      } 
+
+    } 
+
+Answer:- system will display Compiler Error
+
+
+Q17:- Write output of below question
+class Test { 
+
+  public static void main(String[] args) { 
+
+    for(;;) {
+
+    System.out.println("Hello"); 
+
+    } 
+
+  } 
+
+}
+
+Answer:- System will print Hello in infinite times until we stop code forcefully  
+
 
 
 
