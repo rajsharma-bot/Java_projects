@@ -59,3 +59,16 @@ ex:- boolean, double, int ,try, void and many more
 Q6:- Why java consider goto as keyword?
 Answer:- The Go goto statement is a jump statement which is used to transfer the control to other parts of the program.
 In goto statement, there must be a label. We use label to transfer the control of the program. 
+
+Q7- What is first statement in java file ?
+Answer:- package statement should be first statement in java file
+
+Q8:-Which package is correct ?
+I am trying to create test2 package inside test1 package
+
+Asnwer:- package test1.test2 is correct package if we are trying to create test2 package inside test1 package
+
+Q9:- Difference between 32bits and 64 bits Operating System
+Answer :- 32 bit can be supported in 32-bit OS and 64 bit can be run on both 32 or 64 bit
+addressable space size if 4GB for 32 bit and 16 GB for 54 bit
+
