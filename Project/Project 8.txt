@@ -70,5 +70,5 @@ Asnwer:- package test1.test2 is correct package if we are trying to create test2
 
 Q9:- Difference between 32bits and 64 bits Operating System
 Answer :- 32 bit can be supported in 32-bit OS and 64 bit can be run on both 32 or 64 bit
-addressable space size if 4GB for 32 bit and 16 GB for 54 bit
+addressable space size if 4GB for 32 bit and 16 GB for 64 bit
 
