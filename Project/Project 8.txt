@@ -1,0 +1,43 @@
+Q1:- How to increase heap memory in eclipse?
+Ans:- 
+1-Go to Eclipse Folder
+2-Find Eclipse Icon in Eclipse Folder
+3-Right Click on it you will get option "Show Package Content"
+4-Contents folder will open on screen
+5-If you are on Mac then you'll find "MacOS"
+6-Open MacOS folder you'll find eclipse.ini file
+7-Open it in word or any file editor for edit
+
+...
+
+-XX:MaxPermSize=256m
+
+-Xms40m
+
+-Xmx512m
+...
+
+8-Replace -Xms512m to -Xmx1024m
+9-Save the file and restart your Eclipse
+
+Q2:- How to increase Heap Space in eclipse.ini file?
+
+-startup
+../../../plugins/org.eclipse.equinox.launcher_1.2.0.v20110502.jar
+--launcher.library
+../../../plugins/org.eclipse.equinox.launcher.cocoa.macosx.x86_64_1.1.100.v20110502
+-product
+org.eclipse.epp.package.jee.product
+--launcher.defaultAction
+openFile
+-showsplash
+org.eclipse.platform
+--launcher.XXMaxPermSize
+256m
+--launcher.defaultAction
+openFile
+-vmargs
+-Dosgi.requiredJavaVersion=1.5
+-XX:MaxPermSize=256m
+-Xms40m
+-Xmx512m
