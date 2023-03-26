@@ -45,3 +45,17 @@ openFile
 Q3:-What is Xmx and Xms variables?
 
 Answer:- Xmx specifies the maximum memory allocation pool for a Java virtual machine (JVM), while Xms specifies the initial memory allocation pool
+
+Q4:-What is package in Java ?
+
+Answer:- A java package is a group of similar types of classes, interfaces and sub-packages
+
+
+
+Q5- What is reserve Keyword?
+Answer:- Keywords are reserved words in Java that serve as a code key. These words can't be used for anything else because they're predefined. They can't be used as a variable name, object name, or any other identifier
+ex:- boolean, double, int ,try, void and many more
+ 
+Q6:- Why java consider goto as keyword?
+Answer:- The Go goto statement is a jump statement which is used to transfer the control to other parts of the program.
+In goto statement, there must be a label. We use label to transfer the control of the program. 
