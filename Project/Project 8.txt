@@ -72,3 +72,44 @@ Q9:- Difference between 32bits and 64 bits Operating System
 Answer :- 32 bit can be supported in 32-bit OS and 64 bit can be run on both 32 or 64 bit
 addressable space size if 4GB for 32 bit and 16 GB for 64 bit
 
+Q10:-How to increase RAM associated to JVM in command line
+Answer:-
+
+Use -Xmx to specify the maximum heap size
+Use -Xms to specify the initial Java heap size
+Use -Xss to set the Java thread stack size
+Use this syntax to specify the amount of memory the JVM should use:
+
+-Xms64m or -Xms64M   // 64 megabytes
+-Xmx1g or -Xmx1G     //  1 gigabyte
+A complete java command looks like this:
+
+java -Xmx64m -classpath ".:${THE_CLASSPATH}" ${PROGRAM_NAME}
+
+
+
+Q11:- How to will you check JDK is installed in Machine?
+Answer:- use command "java –version" in cmd if java version is displayed that means java is installed correctly
+
+
+Q12:- Can we have multiple version of Java in single machine?
+Answer:- It is  possible to run multiple versions of Java on the same machine so you can run your existing applications and Ignition at the same time
+
+
+Q13:- How to set different JRE in eclipse.ini file
+Answer:-To set a project-specific JRE (as when you want to target a project to a specific JRE), select Project> Properties> Java Build Path,
+click the Libraries tab, click JRE System Library, and click Edit. In the dialog that appears, select a project-specific JRE.
+
+
+Q14:- How many keywords available in java?
+Answer:- There are 51 reserved terms or keywords in Java.
+20 example of keyword :-  abstract, boolean, break, byte, int, double, else, float, if, while, for, long, char, do, public, return, public, switch, void, this, break, continue
+
+Q15- Write Difference between IPv4 and IPv6 ?
+answer:- IPv4 has a 32-bit address length and IPv6 has a 128-bit address length
+IPv6 has a 128-bit address length and In IPv6 end to end, connection integrity is Achievable
+IPv4  can generate 4.29×109 address space and Address space of IPv6 is quite large it can produce 3.4×1038 address space
+
+
+
+
