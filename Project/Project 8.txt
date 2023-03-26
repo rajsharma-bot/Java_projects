@@ -41,3 +41,7 @@ openFile
 -XX:MaxPermSize=256m
 -Xms40m
 -Xmx512m
+
+Q3:-What is Xmx and Xms variables?
+
+Answer:- Xmx specifies the maximum memory allocation pool for a Java virtual machine (JVM), while Xms specifies the initial memory allocation pool
