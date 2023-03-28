@@ -5,3 +5,7 @@ Answer:-  In Java Special character allowed are '$' and '_'
 Question:-Eclipse Command line arguments
 Answer:- To specify command line arguments in eclipse, go to Run -> Run configurations 
 then goto arguments tab then enter values in program arguments then click on Run 
+
+Question:- How to add plugins in eclipse?
+Answer:-go to Help > Install New Software >Select work with dropdown > select desire plugin and click on next 
+once its downloaded click on finished
