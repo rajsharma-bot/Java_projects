@@ -1,3 +1,7 @@
 Question:- Which Special character allowed in Java class first letter
 Answer:-  In Java Special character allowed are '$' and '_' 
 
+
+Question:-Eclipse Command line arguments
+Answer:- To specify command line arguments in eclipse, go to Run -> Run configurations 
+then goto arguments tab then enter values in program arguments then click on Run 
