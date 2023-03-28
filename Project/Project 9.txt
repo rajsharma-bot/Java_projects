@@ -9,3 +9,9 @@ then goto arguments tab then enter values in program arguments then click on Run
 Question:- How to add plugins in eclipse?
 Answer:-go to Help > Install New Software >Select work with dropdown > select desire plugin and click on next 
 once its downloaded click on finished
+
+Question :- Which Operator is better? Bitwise and Logical. also write reasons
+Answer:-  logical operator is faster then bitwise operator
+ because if any one condition fail then system will doesn't check another operator
+ 
+
