@@ -1,2 +1,2 @@
 Question:- Which Special character allowed in Java class first letter
-Answer:-  Java Special character allowed are '$' and '_' 
+Answer:-  In Java Special character allowed are '$' and '_' 
