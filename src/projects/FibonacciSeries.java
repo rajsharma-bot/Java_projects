@@ -12,7 +12,6 @@ public class FibonacciSeries {
 			System.out.print(" " +n3);
 			printFibonacci(count-1);
 		}
-		
 	}
 
 	public static void main(String[] args) {
