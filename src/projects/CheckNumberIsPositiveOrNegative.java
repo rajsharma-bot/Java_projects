@@ -19,15 +19,15 @@ public class CheckNumberIsPositiveOrNegative {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
-		Scanner sc= new Scanner(System.in);
+
+		Scanner sc = new Scanner(System.in);
 		System.out.println("Please Enter number to check whether is postive or negative");
-		
-		int n= sc.nextInt();
-		
+
+		int n = sc.nextInt();
+
 		// Suppose user is passing -2 then system will display number is negative
-		//If we enter number as 5 then system will display number is positive
-		//If we enter number as 0 then system will display number is zero
+		// If we enter number as 5 then system will display number is positive
+		// If we enter number as 0 then system will display number is zero
 		PositiveOrNegative(n);
 	}
 
