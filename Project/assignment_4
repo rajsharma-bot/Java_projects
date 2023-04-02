@@ -3,3 +3,12 @@ Answer:- Any loop can be used to handle problem
 but "for" loop can be used when we know the loop should execute n times.
 
 
+Question:- Which class name is valid
+Valid class names are 
+Training1
+training
+_training
+_Training
+$Training
+Training$
+The above class name is valid by Class name should start with an Uppercase letter
