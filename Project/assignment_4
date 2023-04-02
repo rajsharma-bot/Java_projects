@@ -1,0 +1,5 @@
+Question :- why we use for loop when we have while and do.while loops?
+Answer:- Any loop can be used to handle problem 
+but "for" loop can be used when we know the loop should execute n times.
+
+
