@@ -1,4 +1,4 @@
-package projects;
+package infiniteForLoop;
 
 public class InfiniteForLoop1 {
 

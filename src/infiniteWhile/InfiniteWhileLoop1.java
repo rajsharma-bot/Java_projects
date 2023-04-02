@@ -1,4 +1,4 @@
-package projects;
+package infiniteWhile;
 
 public class InfiniteWhileLoop1 {
 
