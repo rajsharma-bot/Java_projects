@@ -7,7 +7,7 @@ public class CheckNumberIsPositiveOrNegative {
 	public static void PositiveOrNegative(int number) {
 
 		if (number > 0) {
-			System.out.println(number + " Is Postive");
+			System.out.println(number + " Is Positive");
 		} else if (number < 0) {
 			System.out.println(number + " Is Negative");
 
@@ -21,7 +21,7 @@ public class CheckNumberIsPositiveOrNegative {
 		// TODO Auto-generated method stub
 
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Please Enter number to check whether is postive or negative");
+		System.out.println("Please Enter number to check whether is positive or negative");
 
 		int n = sc.nextInt();
 
