@@ -14,4 +14,4 @@ Question :- Which Operator is better? Bitwise and Logical. also write reasons
 Answer:-  logical operator is faster then bitwise operator
  because if any one condition fail then system will doesn't check another operator
  
-
+Question:- What is basic difference between Logical and Bitwise operators?
