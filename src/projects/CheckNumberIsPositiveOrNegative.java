@@ -2,9 +2,9 @@ package projects;
 
 import java.util.Scanner;
 
-public class CheckNumberIsPostiveOrNegative {
+public class CheckNumberIsPositiveOrNegative {
 
-	public static void PostiveOrNegative(int number) {
+	public static void PositiveOrNegative(int number) {
 
 		if (number > 0) {
 			System.out.println(number + " Is Postive");
@@ -25,7 +25,10 @@ public class CheckNumberIsPostiveOrNegative {
 		
 		int n= sc.nextInt();
 		
-		PostiveOrNegative(n);
+		// Suppose user is passing -2 then system will display number is negative
+		//If we enter number as 5 then system will display number is positive
+		//If we enter number as 0 then system will display number is zero
+		PositiveOrNegative(n);
 	}
 
 }
