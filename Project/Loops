@@ -11,3 +11,28 @@ we can consider call out numbers as do action
 and if number is present in ticket player can mark that number
 
  
+Question:- write 3 real-life examples where we use infinite while loop
+
+Below three are example for infinite while loop
+1- Traffic light control system
+2- Online chat applications
+3- Automatic update check
+
+Question:- write difference between while, do.while and for loop?
+Answer:- There are  main difference
+For Loop:- for loop is used when we know how many times loop is need to be executed 
+Syntax:-for(initialization; condition;updating){
+statement
+}
+
+While:-  while loop is used to repeatedly execute a block of code while a specified condition is true.
+loops is used when we don't know how many times loop need to be executed.
+Syntax:-While(condition){
+Statement}
+
+do while loop:- Do while loop is similar to while loop but in do while loop code will be executed atleast once even if
+condition fails
+Syntax:-
+do{Statement
+}
+While(condition)
