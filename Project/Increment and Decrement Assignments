@@ -1,0 +1,23 @@
+Increment and Decrement Assignments
+Q1)
+int i1 = 10;
+int j = i1++ + ++i1;
+System.out.println(j);
+
+Answer:- Output will be 22 ( 10 +12)
+
+
+Q2)
+int i2 = 10;
+int k = ++i2 + ++i2 + ++i2 + i2++;
+System.out.println(k);
+
+Answer:- Output will be 49 (11  + 12  + 13 + 13)
+
+
+Q3)
+int i3 = 10;
+int m = ++i3 + i3++ + i3++ + i3++  + i3-- + i3-- + --i3;
+System.out.println(m);
+
+Answer:-  Output will be 85 (11 + 11 + 12 + 13  + 14  + 13 + 11)
