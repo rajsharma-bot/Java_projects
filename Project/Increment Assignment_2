@@ -1,0 +1,14 @@
+Solve below code
+Q1)
+int i = 10;
+i = i++;
+System.out.println(i);
+
+Answer:- Output is 10
+
+Q2)
+int j = 10;
+j = j++ + j;
+System.out.println(j);
+
+Answer:- Answer:- Output is 21 (10 + 11)
