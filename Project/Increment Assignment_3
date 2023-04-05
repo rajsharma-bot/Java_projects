@@ -1,0 +1,7 @@
+Write output for code
+   
+   int i = 10;   
+   i = i++ + i + ++i ;
+   System.out.println(i);
+   
+   Answer:- Output is 33 (10 + 11 + 12)
