@@ -3,3 +3,11 @@ Question :- Why do we have do_while loop when while and for loop is available?
 Answer:- do-while loop is a useful tool when you want to ensure that a loop body is executed at least once,
 even if the loop condition is initially false. While the for loop is used for a definite number of iterations 
 and the while and do-while loops are used for an indefinite number of iterations.
+
+Question:- Write a real time scenario when we use do while loop?
+Answer:- Tambola or Bingo game is realtime example for "do-while" loop,
+
+we can consider call out numbers as do action
+and if number is present in ticket player can mark that number
+
+ 
