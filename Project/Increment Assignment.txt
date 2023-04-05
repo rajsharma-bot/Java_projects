@@ -1,0 +1,21 @@
+Write output for below program?
+
+double db1 = 14.5d;
+db1++;
+System.out.println(db1);
+
+Answer:- Output is 15.5
+
+final int i = 10;
+i++;
+System.out.println(i);
+
+Answer:-  System will display compilation problem because final variable is constant and its value cannot be changed 
+once it has been assigned
+
+boolean bool = true;
+bool++;
+System.out.println(bool);
+
+Answer:- System will display compilation error because increment and decrement operations can be used for numeric data types
+such as "int","double" etc.. it cannot be used for boolean data types
