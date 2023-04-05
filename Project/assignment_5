@@ -1,0 +1,22 @@
+Question:- Write Class Conventions for Java?
+Answer:-  Class names should be nouns in UpperCamelCase (in mixed case with the first letter of each internal word capitalized). 
+we must keep  class names simple and descriptive, so that they accurately reflect the purpose and functionality of the class
+
+We can user Number at end  like "TestClass1"
+
+Below name is valid but it is not recommended to start/end class names with underscores or dollar sign  in Java.
+we can also some spl characters for class name (_ and $)
+_TestClass , TestClass_ , $TestClass and TestClass$
+
+Question:- Testing1.java
+
+public class Testing{
+}
+class A {
+}
+class B{
+}
+is this Testing1.java is correct?
+
+Answer:- For Code mention in assignment "Testing1.java" is incorrect because In Java,
+File name should be same as public class name 
